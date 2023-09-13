@@ -1,0 +1,11 @@
+chap3/lightning_logs/*
+chap3/mnist/*
+chap4/ddpm-butterflies-32px/*
+chap4/lightning_logs/*
+chap4/my-pipeline/*
+chap4/smithsonian_butterflies_subset/*
+chap5/ddpm-celebahq-256/*
+chap5/lightning_logs/*
+chap5/mnist/*
+chap5/my-clip-guided-pipeline/*
+chap5/smithsonian_butterflies_subset/*
